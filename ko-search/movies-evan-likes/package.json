@@ -1,0 +1,34 @@
+{
+  "name": "movies-evan-likes",
+  "version": "1.0.0",
+  "description": "A list of movies Evan likes!",
+  "scripts": {
+    "dev": "webpack-dev-server --hot --inline"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kofile/ko-take-home-solutions.git"
+  },
+  "author": "Evan Sherwood <evan@sherwood.io>",
+  "license": "ISC",
+  "homepage": "https://github.com/kofile/ko-take-home-solutions/ko-search/movies-evan-likes",
+  "devDependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-react-hmre": "^1.1.1",
+    "babel-preset-stage-0": "^6.16.0",
+    "css-loader": "^0.26.0",
+    "json-loader": "^0.5.4",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "reset-css": "^2.2.0"
+  }
+}

@@ -1,0 +1,24 @@
+.page {
+  padding: 1rem;
+  min-height: calc(100vh - 2rem);
+  width: 600px;
+  margin: 0 auto;
+}
+
+.page > * + * {
+  margin-top: 1rem;
+}
+
+.appDescription {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1rem;
+}
+
+.appDescription .title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.appDescription .content {
+  margin: 1rem 0;
+}
