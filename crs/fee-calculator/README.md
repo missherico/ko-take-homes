@@ -1,4 +1,7 @@
-
+Setup: Copy the challenge files using the following command.
+```
+svn export https://github.com/kofile/ko-take-homes/trunk/crs/fee-calculator
+```
 
 Part 1: Fees
 
