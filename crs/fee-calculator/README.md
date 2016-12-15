@@ -58,4 +58,4 @@ Part 3: API
 
 Challenge:
 
-Create a RESTful API using whatever server-side framework you want (or no framework). The API should 2 have endpoints. One endpoint should take an array of orders and return a JSON structure containing the prices for each order item and the total for the order.  The second endpoint should take an array of orders and return a JSON structure containing the distribution totals for that order. It is up to you to define an appropriate JSON structure for the order prices and an appropriate JSON structure for the distributions.
+Create a RESTful API using whatever server-side framework you want (or no framework). The API should 2 have endpoints. One endpoint should take an array of orders and return a JSON structure containing the prices for each order item and the total for the order.  The second endpoint should take an array of orders and return a JSON structure containing the distribution totals for each order. It is up to you to define an appropriate JSON structure for the order prices and an appropriate JSON structure for the distributions.
